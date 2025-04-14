@@ -3,7 +3,7 @@
 This repo is a modified version from the Coursera Guided Project
 [Building Rust AWS Lambda Microservices with Cargo Lambda](https://www.coursera.org/projects/building-rust-aws-lambda-microservices-with-cargo-lambda) 
 by [Noah Gift](https://www.linkedin.com/in/noahgift/) from Duke University.
-
+Original [repo](https://github.com/nogibjj/aws-lambda-rust/tree/main)
 
 
 
